@@ -2,7 +2,7 @@
   <img src="./assets/Work%20Working%20GIF.gif" width="480" alt="Working" />
 </p>
 
-<h1 align="center">Mickey</h1>
+<h1 align="center">Ი︵𐑼 Mickey Ი︵𐑼</h1>
 <p align="center">Backend developer · Golang </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 
-## Stack
+## Core stack
 
 <p>
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="36" alt="Go" />
