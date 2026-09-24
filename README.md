@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Mickey Sunavong</h1>
-<p align="center">Backend developer · Go · Lviv, Ukraine</p>
+<p align="center">Backend developer · Golang </p>
 
 <p align="center">
   <a href="mailto:msunavong@gmail.com"><img src="https://img.shields.io/badge/Email-msunavong%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
