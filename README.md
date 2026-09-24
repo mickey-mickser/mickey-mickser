@@ -2,7 +2,7 @@
   <img src="./assets/Work%20Working%20GIF.gif" width="480" alt="Working" />
 </p>
 
-<h1 align="center">Mickey Sunavong</h1>
+<h1 align="center">Mickey</h1>
 <p align="center">Backend developer · Golang </p>
 
 <p align="center">
